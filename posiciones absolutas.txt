@@ -1,0 +1,7 @@
+Posicion absolutas
+Posiciona el elemento relativo a su padre.
+A diferencia de la posición relativa donde se mantiene las posiciones de todo
+lo demás igual, cuando se usa el posicionamiento absoluto, estás sacando el
+elemento del flujo natural del documento (ya no forma parte del flujo normal)
+Posicion relativa:
+se agrega un margen relativo donde debería haber estado originalmente
